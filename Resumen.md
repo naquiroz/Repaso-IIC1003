@@ -32,7 +32,7 @@ Como ven, para guardar listas dentro de listas, solo basta escribirlas separadas
 
 ***Tip*** : **Las listas pueden guardar muchos tipos de cosas a a la vez!  (strings, listas, ints en una misma lista)**
 
-####¿ Qué puedo hacer con las listas (y, por ende, listas de listas)?
+#### ¿Qué puedo hacer con las listas (y, por ende, listas de listas)?
 
 Muchas cosas, asi que resumiremos las mas esenciales.
 
