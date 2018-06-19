@@ -1,6 +1,6 @@
 # Resumen IIC-1103
 
-***Por: Nicolás Quiroz***
+***Por: Nicolas Quiroz, Daniel Leal.***
 
 ----
 
