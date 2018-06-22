@@ -1,0 +1,1 @@
+Abrir la base de datos masiva entregada y crear un archivo llamado 'filtered_data.txt' que contenga en cada linea el nombre y el apellido separados por un espacio de cada estudiante cuya carrera sea 'ingeniería' o su universidad sea 'USACH'.
